@@ -86,4 +86,4 @@ npm install tingle-rate --save
 
 ## Links
 
-- [Issues](http://github.com/tinglejs/tingle-rate/issues)
+- [Issue](http://github.com/tinglejs/tingle-rate/issues)
